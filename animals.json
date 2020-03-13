@@ -1,0 +1,12 @@
+[
+    {
+        "idAnimal": "123",
+        "nombre": "Perro"
+    }, {
+        "idAnimal": "124",
+        "nombre": "Gato"
+    }, {
+        "idAnimal": "125",
+        "nombre": "Loro"
+    }
+]
