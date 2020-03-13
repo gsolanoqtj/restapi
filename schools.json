@@ -1,0 +1,18 @@
+[
+    {
+        "shoolId": "a",
+        "schoolName": "Ingeniería"
+    }, 
+    {
+        "shoolId": "b",
+        "schoolName": "Medicina"
+    }, 
+    {
+        "shoolId": "c",
+        "schoolName": "Ciencias Sociales"
+    }, 
+    {
+        "shoolId": "d",
+        "schoolName": "Leyes"
+    }
+]
